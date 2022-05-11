@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DaNNyRoSSe
+- 👋 Hi, I’m OLeh
 - 👀 I’m interested in IT technologies
 - 🌱 I’m currently learning programic lauguage java and javascript
 - 💞️ I’m looking to collaborate on ...
